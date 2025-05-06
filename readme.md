@@ -3,9 +3,7 @@
 This is a skill demonstration project.
 
 I have setup a fullstack web application project following the FLASK project structure. I have also setup restful API in the 
-project. It is a simple fullstack web application built using flask framework having a SQLite database and SQLAlchemy is the 
-package used for facilitating the communication between the application and the database. This application displays the list of 
-articles present in the database.
+project. It is a simple fullstack web application built using flask framework having a SQLite database. SQLAlchemy is used for facilitating the communication between the application and the database. This application displays the list of articles present in the database.
 
 # Local Setup
 - Clone the project
